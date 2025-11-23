@@ -44,7 +44,7 @@ This tool is designed for:
 
 High-Level Features
 
-User Input for Message Details
+#User Input for Message Details
 
 The program collects:
 
@@ -54,7 +54,7 @@ The program collects:
 
    Message content
 
-Scheduling System
+#Scheduling System
 
 The user specifies:
 
@@ -64,7 +64,7 @@ The user specifies:
 
 The system calculates the exact time difference and schedules the message.
 
-Automatic Message Delivery
+#Automatic Message Delivery
 
 At the scheduled moment, the program automatically:
 
@@ -74,16 +74,16 @@ Sends the WhatsApp message
 
 Confirms delivery via console output
 
-Error Handling
+#Error Handling
 
 The system checks:
 
-If the scheduled time is in the past
+1)If the scheduled time is in the past
 
-Invalid data formats
+2)Invalid data formats
 
-API/connection errors
+3)API/connection errors
 
-Twilio API Integration
+#Twilio API Integration
 
 Uses Twilio’s WhatsApp Sandbox to send messages safely and reliably.
