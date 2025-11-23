@@ -87,14 +87,12 @@ To test properly:
 4.Verify the message appears in your WhatsApp app.
 
 SCREENSHOTS
-You can include image such as
 
 CLI input example
 
 <img width="1340" height="492" alt="Screenshot 2025-11-23 112620" src="https://github.com/user-attachments/assets/4d02f250-96da-4908-bf5f-5421c835a008" />
 
 Twilio Dashboard Logs Screenshot
-(Insert image showing message logs)
 
 ![WhatsApp Image 2025-11-23 at 12 51 15 PM (1)](https://github.com/user-attachments/assets/326addaa-92de-454d-8e17-6616fc184ad4)
 
