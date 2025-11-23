@@ -1,4 +1,6 @@
 Project Overview
+
+
 This Python project allows the user to schedule WhatsApp messages that will be automatically sent through the Twilio WhatsApp API at a date and time determined by the user.
 This script will gather the recipient's information, the message content, and the send time. It will then wait until the appointed time comes to send the message across.
 
@@ -31,18 +33,6 @@ Technologies / Tools Used
 
 ⦁	time module (to delay execution)
 
-Installation & Setup
-1. Clone the repository
-
-
-
-
-2. Install dependencies
-
-
-
-
-
 
 Set Up Your Twilio Account
 
@@ -54,18 +44,6 @@ Set Up Your Twilio Account
 
 ⦁	ACCOUNT_SID
 ⦁	AUTH_TOKEN
-
-4.Replace the credentials in the script:
-
-
-
-
-
-
-4. Replace the Twilio Sandbox WhatsApp number
-
-
-
 
 
 How to Run the Project
@@ -102,18 +80,3 @@ To test properly:
 ⦁	A message with an incorrect date to test validation
 
 4.Verify the message appears in your WhatsApp app.
-
-Screenshots
-
-You can include images such as:
-
-CLI Input Example
-
-
-
-
-
-
-
-Twilio Dashboard Logs Screenshot
-(Insert image showing message logs)
