@@ -48,19 +48,19 @@ User Input for Message Details
 
 The program collects:
 
-Recipient name
+   Recipient name
 
-Recipient WhatsApp number
+   Recipient WhatsApp number
 
-Message content
+   Message content
 
 Scheduling System
 
 The user specifies:
 
-Date (YYYY-MM-DD)
+  Date (YYYY-MM-DD)
 
-Time (24-hour HH:MM format)
+  Time (24-hour HH:MM format)
 
 The system calculates the exact time difference and schedules the message.
 
