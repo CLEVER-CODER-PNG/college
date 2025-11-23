@@ -80,3 +80,15 @@ To test properly:
 ⦁	A message with an incorrect date to test validation
 
 4.Verify the message appears in your WhatsApp app.
+
+SCREENSHOTS
+You can include image such as
+
+CLI input example
+https://github.com/CLEVER-CODER-PNG/college/blob/141e81cf820272948bbb09a9796fd40e7a4e2d44/Screenshot%202025-11-23%20112620.png
+
+
+Twilio Dashboard Logs Screenshot
+(Insert image showing message logs)
+
+
