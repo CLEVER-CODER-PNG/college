@@ -18,9 +18,13 @@ This tool is helpful for:
 Features
 
 ⦁	 Send WhatsApp messages through Twilio
+
 ⦁	 Schedule messages for a future date and time
+
 ⦁	 Simple command-line interface
+
 ⦁	 Error-handling for invalid date/time inputs
+
 ⦁	 Easy to modify and integrate into other applications
 
 Technologies / Tools Used
@@ -43,6 +47,7 @@ Set Up Your Twilio Account
 3.Get your:
 
 ⦁	ACCOUNT_SID
+
 ⦁	AUTH_TOKEN
 
 
