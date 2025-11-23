@@ -49,7 +49,9 @@ User Input for Message Details
 The program collects:
 
 Recipient name
+
 Recipient WhatsApp number
+
 Message content
 
 Scheduling System
@@ -57,6 +59,7 @@ Scheduling System
 The user specifies:
 
 Date (YYYY-MM-DD)
+
 Time (24-hour HH:MM format)
 
 The system calculates the exact time difference and schedules the message.
@@ -66,7 +69,9 @@ Automatic Message Delivery
 At the scheduled moment, the program automatically:
 
 Connects to Twilio
+
 Sends the WhatsApp message
+
 Confirms delivery via console output
 
 Error Handling
@@ -74,7 +79,9 @@ Error Handling
 The system checks:
 
 If the scheduled time is in the past
+
 Invalid data formats
+
 API/connection errors
 
 Twilio API Integration
