@@ -9,22 +9,22 @@ Scope of the Project
 
 The scope of this project includes:
 
-Sending WhatsApp messages using the Twilio API.
+1) sending WhatsApp messages using the Twilio API.
 
 
-Providing a command-line interface for user input.
+2) Providing a command-line interface for user input.
 
 
-Allowing users to set a future date and time for message delivery.
+3) Allowing users to set a future date and time for message delivery.
 
 
-Calculating the delay between the current time and the scheduled time.
+4) Calculating the delay between the current time and the scheduled time.
 
 
-Automatically sending the message at the exact scheduled moment.
+5) Automatically sending the message at the exact scheduled moment.
 
 
-Handling basic errors and invalid scheduling attempts.
+6) Handling basic errors and invalid scheduling attempts.
 
 
 Target Users
@@ -32,15 +32,15 @@ Target Users
 
 This tool is designed for:
 
-Individuals who want to schedule reminders or greetings on WhatsApp.
+1) Individuals who want to schedule reminders or greetings on WhatsApp.
 
-Students and beginners learning Python automation.
+2) Students and beginners learning Python automation.
 
-Developers exploring the Twilio WhatsApp API.
+3) Developers exploring the Twilio WhatsApp API.
 
-Small businesses needing automated WhatsApp notifications.
+4) Small businesses needing automated WhatsApp notifications.
 
-Anyone who wants to automate scheduled messaging without building a full application.
+5) Anyone who wants to automate scheduled messaging without building a full application.
 
 High-Level Features
 
